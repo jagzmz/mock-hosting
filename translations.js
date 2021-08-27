@@ -1,7 +1,7 @@
 (() => {
     console.log(`🟠 LOADING TRANSLATION CONTENT`);
     const translation ={
-        name: "Mahesh"
+        name: "Mahesh Test"
     }
     localStorage.setItem('translations', JSON.stringify(translation));
 
